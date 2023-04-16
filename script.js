@@ -14,3 +14,4 @@ window.addEventListener('scroll', () => {
         buttonReservation.classList.remove('button-style');
     }
   });
+  
